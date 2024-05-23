@@ -1,0 +1,13 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+#secret {
+    opacity: 0.15;
+    position: relative;
+    top: 700px;
+}
+div { 
+  margin: auto;
+  width: 50%;
+  padding: 5em;
+}
